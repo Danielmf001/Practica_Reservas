@@ -9,7 +9,7 @@
         <h1>AulaReservas</h1>
         <p>Acceso a la gestión de salas</p>
 
-        <form action="login.php" method="POST">
+        <form action="index.php" method="POST">
             <div>
                 <label for="usuario">Usuario:</label><br>
                 <input type="text" id="usuario" name="usuario" required>

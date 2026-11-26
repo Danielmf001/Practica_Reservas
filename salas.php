@@ -1,24 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Salas disponibles - AulaReservas</title>
-<style>
-  body { margin: 0; font-family: Arial, sans-serif; color: #222; background: #fff; }
-  header { background: #0f3b4c; color: #fff; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
-  header strong { font-size: 18px; }
-  header a { color: #fff; }
-  nav { background: #dff0f2; padding: 10px 16px; border-bottom: 1px solid #b9d9dd; }
-  nav a { color: #0b7285; font-weight: bold; text-decoration: none; margin-right: 8px; }
-  main { max-width: 700px; padding: 16px 24px; font-family: "Courier New", monospace; }
-  form { margin-bottom: 24px; }
-  label { margin-right: 12px; }
-  table { border-collapse: collapse; width: 100%; }
-  td { padding: 4px 10px 4px 0; }
-  .no { color: #777; }
-  .aviso { color: #b00020; }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Salas disponibles - AulaReservas</title>
 </head>
 <body>
 

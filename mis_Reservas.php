@@ -1,23 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mis reservas - AulaReservas</title>
-<style>
-  body { margin: 0; font-family: Arial, sans-serif; color: #222; background: #fff; }
-  header { background: #0f3b4c; color: #fff; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
-  header strong { font-size: 18px; }
-  header a { color: #fff; }
-  nav { background: #dff0f2; padding: 10px 16px; border-bottom: 1px solid #b9d9dd; }
-  nav a { color: #0b7285; font-weight: bold; text-decoration: none; margin-right: 8px; }
-  main { max-width: 800px; padding: 16px 24px; font-family: "Courier New", monospace; }
-  .mensaje { margin: 16px 0; }
-  table { border-collapse: collapse; width: 100%; }
-  th { text-align: left; }
-  th, td { padding: 4px 12px 4px 0; }
-  form { margin: 0; }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mis reservas - AulaReservas</title>
 </head>
 <body>
 
