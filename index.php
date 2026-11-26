@@ -7,7 +7,7 @@
 <body>
     <header>
         <span>AulaReservas</span>
-        <span>Sesión: ana</span> | 
+        <span>Sesión:</span> | 
         <a href="login.php">Cerrar sesión</a>
         <nav>
             <a href="index.php">Inicio</a> | 
@@ -17,7 +17,7 @@
     </header>
 
     <main>
-        <h1>Hola, Ana</h1>
+        <h1>Hola</h1>
         <p>¿Qué quieres hacer?</p>
 
         <ul>
